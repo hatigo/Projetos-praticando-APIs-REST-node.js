@@ -1,0 +1,34 @@
+{
+    "empresas": [
+        {
+            "name": "Facebook",
+            "domain": "facebook.com",
+            "year_founded": 2004,
+            "industry": "Internet",
+            "employees_count": 77517,
+            "locality": "Menlo Park",
+            "country": "United States",
+            "linkedin_url": "linkedin.com/company/facebook"
+        },
+        {
+            "name": "Google",
+            "domain": "google.com",
+            "year_founded": 1998,
+            "industry": "Internet",
+            "employees_count": 219238,
+            "locality": "Mountain View",
+            "country": "United States",
+            "linkedin_url": "linkedin.com/company/google"
+        },
+        {
+            "name": "Youtube",
+            "domain": "youtube.com",
+            "year_founded": 2005,
+            "industry": "Internet",
+            "employees_count": 84594,
+            "locality": "San Bruno",
+            "country": "United States",
+            "linkedin_url": "linkedin.com/company/youtube"
+        }
+    ]
+}
