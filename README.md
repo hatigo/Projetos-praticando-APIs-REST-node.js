@@ -82,3 +82,6 @@
 
 
 ###### tags: `nodeJS` `express` `http` `api` `controladores` `controllers` `roteadores` `routers` `validacoes` `validations` `intermediários` `middlewares`
+
+---
+---
